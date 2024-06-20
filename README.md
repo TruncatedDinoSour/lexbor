@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/lexbor>
 # Lexbor
 
 [![Build Status](https://travis-ci.org/lexbor/lexbor.svg?branch=master)](https://travis-ci.org/lexbor/lexbor)
